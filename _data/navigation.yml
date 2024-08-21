@@ -1,0 +1,17 @@
+main:
+  - title: "A propos"
+    url: /about
+  - title: "Financement"
+    url: /financement
+  - title: "📚 Toutes les formations"
+    url: /all-training
+  - title: "Contact"
+    url: /contact
+  - title: "S'inscrire à une formation"
+    url: /contact
+  
+formations:
+  - title: "📚 Toutes les formations"
+    url: /all-training
+  - title: "S'inscrire à une formation"
+    url: /contact

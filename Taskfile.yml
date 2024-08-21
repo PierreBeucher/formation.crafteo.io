@@ -1,0 +1,5 @@
+version: '3'
+
+tasks:
+  serve:
+    podman compose run -it -P jekyll bash -c "bundle exec jekyll build && bundle exec jekyll server -H 0.0.0.0"
