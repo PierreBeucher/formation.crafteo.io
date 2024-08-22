@@ -18,7 +18,7 @@ Pierre Beucher - Crafteo
   {{ contact-data | markdownify }}
 </div>
 
-Vous pouvez aussi passer directement par ce formulaire:
+Ecrivez-moi directement:
 
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/4145c5e4c811d0250c4b6495f947cb66?embedded=1"></div>
 

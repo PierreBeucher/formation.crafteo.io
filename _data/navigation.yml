@@ -3,11 +3,9 @@ main:
     url: /about
   - title: "Financement"
     url: /financement
-  - title: "📚 Toutes les formations"
+  - title: "📚 Catalogue de formation"
     url: /all-training
   - title: "Contact"
-    url: /contact
-  - title: "S'inscrire à une formation"
     url: /contact
   
 formations:

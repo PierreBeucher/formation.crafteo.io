@@ -1,19 +1,16 @@
 ---
-title: Crafteo Formation - Pierre Beucher
+title: " "
 layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#4000a3"
-  # overlay_image: /assets/images/crafteo-banner.png
+  # overlay_color: "#4000a3"
+  image: /assets/images/crafteo-banner.png
   # actions:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
-excerpt: >
-  <p style="display: flex; align-items: center;">
-    <img src="assets/images/crafteo-logo.png" alt="Description of the image" style="width: 150px; height: auto; margin-right: 10px;">
-    <a>Formations DevOps & Cloud - Pédagogie orientée pratique - Cas d'usages au plus proche du terrain</a>
-  </p>
+# excerpt: >
+#     <a>Formations DevOps & Cloud - Pédagogie orientée pratique - Cas d'usages au plus proche du terrain</a>
 
 feature_row:
   - image_path: assets/images/docker-400.png
@@ -40,11 +37,19 @@ feature_row:
     btn_label: "En savoir plus"
 ---
 
-# Qui suis-je ? 
+# Formations DevOps & Cloud
 
-Hello, moi c'est **Pierre**, formateur et expert DevOps & Cloud depuis plus de 10 ans. **Crafteo** est mon entitée de formation. Je vous fais profiter de mon expérience au travers de formations orientées sur la pratique et les cas d'usage concrets. 
+Hello, je suis **Pierre**, formateur et expert **DevOps & Cloud** depuis plus de 10 ans. **Crafteo** est mon entitée de formation. 
 
-[A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
+Je vous fais profiter de mon expérience au travers de formations orientées sur la pratique et les cas d'usage concrets. 
+
+[Catalogue de formation](./all-training){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
+
+---
+
+Formations populaires:
+
+{% include feature_row  %}
 
 # Financement
 
@@ -75,4 +80,4 @@ Je propose des formations autour du Cloud & DevOps:
 
 ---
 
-{% include feature_row  %}
+
