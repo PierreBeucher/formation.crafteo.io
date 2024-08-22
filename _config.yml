@@ -37,4 +37,23 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+
+author:
+  name: "Pierre Beucher"
+  avatar: "/assets/images/me-150.png"
+  bio: "Expert et formateur DevOps / Cloud"
+  location: Lyon, France
+  links:
+    - label: "crafteo.io"
+      icon: "fas fa-fw fa-link"
+      url: "https://crafteo.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PierreBeucher"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pierre-beucher"
+    - label: "Stack Overflow"
+      icon: "fas fa-fw fa-link"
+      url: "https://stackoverflow.com/users/5465973/pierre-b"
