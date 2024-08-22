@@ -3,6 +3,8 @@ title: A propos de Crafteo Formation
 permalink: /about.html
 layout: single
 author_profile: true
+header:
+  image: /assets/images/crafteo-banner.png
 ---
 
 👋 Hello, moi c'est Pierre, expert et formateur DevOps / Cloud depuis plus de 10 ans. Crafteo est mon entité via laquelle je propose des formations. 

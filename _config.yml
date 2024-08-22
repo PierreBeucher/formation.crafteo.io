@@ -26,7 +26,7 @@ exclude:
 - .dockerignore
 - docker-compose.yml
 
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 search: false
 # search_provider: algolia
