@@ -57,3 +57,6 @@ author:
     - label: "Stack Overflow"
       icon: "fas fa-fw fa-link"
       url: "https://stackoverflow.com/users/5465973/pierre-b"
+
+atom_feed:
+  hide: true
