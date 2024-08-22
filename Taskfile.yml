@@ -6,3 +6,6 @@ tasks:
   
   bundle:
     podman compose run -it -P jekyll bash -c "bundle install"
+  
+  debug-bash:
+    podman compose run -it -P jekyll bash
