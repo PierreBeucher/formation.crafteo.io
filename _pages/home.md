@@ -39,7 +39,7 @@ feature_row:
 
 # Formations DevOps & Cloud
 
-Hello, je suis **Pierre**, formateur et expert **DevOps & Cloud** depuis plus de 10 ans. **Crafteo** est mon entitée de formation. 
+Hello, je suis **Pierre**, formateur et expert **DevOps & Cloud** depuis plus de 10 ans. **Crafteo** est mon entité de formation. 
 
 Je vous fais profiter de mon expérience au travers de formations orientées sur la pratique et les cas d'usage concrets. 
 
@@ -53,7 +53,7 @@ Formations populaires:
 
 # Financement
 
-Les formations Crafteo sont **certifiées Qualiopi** et **finançable par votre OPCO**!
+Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre OPCO**!
 
 [En savoir plus](./financement){: .btn .btn--info}
 
