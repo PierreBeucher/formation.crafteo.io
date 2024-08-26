@@ -10,7 +10,7 @@ toc: true
 
 {% capture docker-notice %}
 - **Durée:** 3j (21h)
-- **Prix:** 1700 HT
+- **Prix:** 1700€ HT
 - **Lieux:** à distance ou dans toute la France
 {% endcapture %}
 

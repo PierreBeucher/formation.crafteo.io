@@ -13,7 +13,7 @@ header:
 #     <a>Formations DevOps & Cloud - Pédagogie orientée pratique - Cas d'usages au plus proche du terrain</a>
 
 feature_row:
-  - image_path: assets/images/docker-400.png
+  - image_path: assets/images/docker-600.png
     alt: "docker"
     title: "Docker, créer et administrer ses conteneurs virtuels d'applications"
     excerpt: |-
@@ -24,7 +24,7 @@ feature_row:
     url: "/trainings/docker"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
-  - image_path: assets/images/kubernetes-400.png
+  - image_path: assets/images/kubernetes-600.png
     alt: "kubernetes"
     title: "Kubernetes: mise en oeuvre de l'orchestration des containers"
     excerpt: |-

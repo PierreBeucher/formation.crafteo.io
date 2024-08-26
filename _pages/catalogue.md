@@ -5,26 +5,37 @@ layout: single
 classes: wide
 
 feature_row:
-  - image_path: assets/images/docker-400.png
+  - image_path: assets/images/docker-600.png
     alt: "docker"
     title: "Docker, créer et administrer ses conteneurs virtuels d'applications"
     excerpt: |-
       Formation complète sur Docker et la containerisation pour comprendre les concepts du Build à la Production. <br>
       <br>
       **Durée:** 3 jours <br>
-      **Tarif:** 1800€ HT <br>
+      **Tarif:** 1700€ HT <br>
     url: "/trainings/docker"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
-  - image_path: assets/images/kubernetes-400.png
+  - image_path: assets/images/kubernetes-600.png
     alt: "kubernetes"
     title: "Kubernetes: mise en oeuvre de l'orchestration des containers"
     excerpt: |-
       Comprendre et mettre en pratique l'orchestration de container avec Kubernetes et les concepts associés, dans le Cloud comme on-prem. <br>
       <br>
       **Durée:** 3 jours <br>
-      **Tarif:** 2000€ HT <br>
+      **Tarif:** 1850€ HT <br>
     url: "/trainings/kubernetes"
+    btn_class: "btn--primary"
+    btn_label: "En savoir plus"
+  - image_path: assets/images/ansible-600.png
+    alt: "ansible"
+    title: "Ansible, automatisation de gestion serveur et infrastructure"
+    excerpt: |-
+      Utiliser Ansible pour automatiser la gestion des serveurs et le déploiement d'applications. <br>
+      <br>
+      **Durée:** 2 jours <br>
+      **Tarif:** 1300€ HT <br>
+    url: "/trainings/ansible"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
 ---
