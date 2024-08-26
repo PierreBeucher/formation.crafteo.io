@@ -39,7 +39,7 @@ Connaissance de base en administration des systèmes Linux (shell/bash, système
 
 ## Introduction à Ansible
 
-- Concept d'Infrastructure as Code
+- Concepts d'Infrastructure as Code
 - Les outils Infrastructure as Code: Ansible, Puppet, Chef, Terraform...
 - Ansible: introduction et architecture
 - Installation et configuration
