@@ -9,9 +9,19 @@ main:
     url: /inscription
   - title: "Contact"
     url: /contact
-  
-formations:
-  - title: "📚 Toutes les formations"
-    url: /catalogue
-  - title: "S'inscrire à une formation"
-    url: /contact
+
+trainings:
+  - title: Toutes les formations
+    children:
+      - title: Docker
+        url: /trainings/docker
+      - title: Kubernetes
+        url: /trainings/kubernetes 
+      - title: Pulumi
+        url: /trainings/pulumi
+      - title: Ansible
+        url: /trainings/ansible
+      - title: "DevOps: Culture, Pratiques et Outils"
+        url: /trainings/devops-workshop
+      - title: "Formation à la demande"
+        url: /trainings/custom

@@ -4,6 +4,9 @@ permalink: /catalogue.html
 layout: single
 classes: wide
 
+sidebar:
+  nav: trainings
+
 feature_row:
   - image_path: assets/images/docker-600.png
     alt: "docker"
