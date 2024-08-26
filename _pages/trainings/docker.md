@@ -1,6 +1,6 @@
 ---
 title:  Docker, créer et administrer ses conteneurs virtuels d'applications 
-permalink: /docker.html
+permalink: /trainings/docker.html
 layout: single
 classes: wide
 toc: true

@@ -1,6 +1,6 @@
 ---
 title:  "Kubernetes: Déployer, administrer et orchestrer ses containers"
-permalink: /kubernetes.html
+permalink: /trainings/kubernetes.html
 layout: single
 classes: wide
 toc: true

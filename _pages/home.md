@@ -21,7 +21,7 @@ feature_row:
       <br>
       **Durée:** 3 jours <br>
       **Tarif:** 1800€ HT <br>
-    url: "/docker"
+    url: "/trainings/docker"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
   - image_path: assets/images/kubernetes-400.png
@@ -32,7 +32,7 @@ feature_row:
       <br>
       **Durée:** 3 jours <br>
       **Tarif:** 2000€ HT <br>
-    url: "/kubernetes"
+    url: "/trainings/kubernetes"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
 ---
@@ -43,7 +43,7 @@ Hello, je suis **Pierre**, formateur et expert **DevOps & Cloud** depuis plus de
 
 Je vous fais profiter de mon expérience au travers de formations orientées sur la pratique et les cas d'usage concrets. 
 
-[Catalogue de formation](./all-training){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
+[Catalogue de formation](./catalogue){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
 
 ---
 
@@ -65,7 +65,7 @@ En tant qu'organisme de formation indépendant je vous offre plusieurs avantages
   - **Expérience**: ayez la garantie d'une expérience à la fois du terrain et de la pédagogie
   - **Lien direct**: Simplifiez la gestion et l'organisation avec un interlocuteur unique 
 
-[S'inscrire à une formation](./all-training){: .btn .btn--success}
+[S'inscrire à une formation](./catalogue){: .btn .btn--success}
 
 # Catalogue de formation
 
@@ -76,7 +76,7 @@ Je propose des formations autour du Cloud & DevOps:
   - **Cloud**: AWS, Azure & Google
   - **Infrastructure as Code**: Pulumi, Ansible, Terraform
 
-[Toutes les formations](./all-training){: .btn .btn--success}
+[Toutes les formations](./catalogue){: .btn .btn--success}
 
 ---
 

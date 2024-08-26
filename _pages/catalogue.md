@@ -1,6 +1,6 @@
 ---
 title: Toutes les formations
-permalink: /all-training.html
+permalink: /catalogue.html
 layout: single
 classes: wide
 
@@ -13,7 +13,7 @@ feature_row:
       <br>
       **Durée:** 3 jours <br>
       **Tarif:** 1800€ HT <br>
-    url: "/docker"
+    url: "/trainings/docker"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
   - image_path: assets/images/kubernetes-400.png
@@ -24,7 +24,7 @@ feature_row:
       <br>
       **Durée:** 3 jours <br>
       **Tarif:** 2000€ HT <br>
-    url: "/kubernetes"
+    url: "/trainings/kubernetes"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
 ---

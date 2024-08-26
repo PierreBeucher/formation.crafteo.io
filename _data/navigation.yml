@@ -4,7 +4,7 @@ main:
   - title: "Financement"
     url: /financement
   - title: "📚 Catalogue"
-    url: /all-training
+    url: /catalogue
   - title: "S'inscrire à une session"
     url: /inscription
   - title: "Contact"
@@ -12,6 +12,6 @@ main:
   
 formations:
   - title: "📚 Toutes les formations"
-    url: /all-training
+    url: /catalogue
   - title: "S'inscrire à une formation"
     url: /contact
