@@ -40,7 +40,7 @@ feature_row:
     btn_label: "En savoir plus"
   - image_path: assets/images/devops-600.png
     alt: "devops-workshop"
-    title: "DevOps: transformer vos équipes et organisations"
+    title: "DevOps: transformer votre organisation et vos équipes"
     excerpt: |-
       Planifier et implémenter votre transformation DevOps: Culture, Principes & Outillages, valeur ajoutée, couts, contraintes et retours d'expériences.  
       <br>
@@ -48,6 +48,18 @@ feature_row:
       **Durée:** 1 journée <br>
       **Tarif:** 700€ HT <br>
     url: "/trainings/devops-workshop"
+    btn_class: "btn--primary"
+    btn_label: "En savoir plus"
+  - image_path: assets/images/pulumi-600.png
+    alt: "pulumi"
+    title: "Pulumi: Infrastructure as (Real) Code"
+    excerpt: |-
+      Explorer Pulumi par la pratique afin de comprendre en profondeur les concepts et utilisation de l'outil au travers du déploiement d'une infrastructure en situation réelle. 
+      <br>
+      <br>
+      **Durée:** 2 jours <br>
+      **Tarif:** 1550€ HT <br>
+    url: "/trainings/pulumi"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
 ---
