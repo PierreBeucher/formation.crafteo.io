@@ -37,7 +37,7 @@ feature_row:
     btn_label: "En savoir plus"
   - image_path: assets/images/devops-600.png
     alt: "devops-workshop"
-    title: "DevOps: transformer vos équipes et organisations"
+    title: "DevOps: transformer votre organisation et vos équipes"
     excerpt: |-
       Planifier et implémenter votre transformation DevOps: Culture, Principes & Outillages, valeur ajoutée, couts, contraintes et retours d'expériences.  
       <br>

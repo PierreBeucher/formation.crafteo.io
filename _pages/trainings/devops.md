@@ -1,5 +1,5 @@
 ---
-title: "DevOps: transformer vos équipes et organisations"
+title: "DevOps: transformer votre organisation et vos équipes"
 permalink: /trainings/devops-workshop.html
 layout: single
 classes: wide
