@@ -4,6 +4,7 @@ permalink: /trainings/docker.html
 layout: single
 classes: wide
 toc: true
+toc_label: "Sommaire"
 # header:
 #   image: /assets/images/docker.png
 ---

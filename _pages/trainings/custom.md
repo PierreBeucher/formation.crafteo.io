@@ -4,6 +4,7 @@ permalink: /trainings/custom.html
 layout: single
 classes: wide
 toc: true
+toc_label: "Sommaire"
 ---
 
 {% capture training-notice %}

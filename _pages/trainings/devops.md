@@ -4,6 +4,7 @@ permalink: /trainings/devops-workshop.html
 layout: single
 classes: wide
 toc: true
+toc_label: "Sommaire"
 ---
 
 {% capture training-notice %}
