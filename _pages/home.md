@@ -20,7 +20,7 @@ feature_row:
       Formation complète sur Docker et la containerisation pour comprendre les concepts du Build à la Production. <br>
       <br>
       **Durée:** 3 jours <br>
-      **Tarif:** 1800€ HT <br>
+      **Tarif:** 1700€ HT <br>
     url: "/trainings/docker"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
@@ -31,7 +31,7 @@ feature_row:
       Comprendre et mettre en pratique l'orchestration de container avec Kubernetes et les concepts associés, dans le Cloud comme on-prem. <br>
       <br>
       **Durée:** 3 jours <br>
-      **Tarif:** 2000€ HT <br>
+      **Tarif:** 1850€ HT <br>
     url: "/trainings/kubernetes"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
@@ -61,7 +61,7 @@ Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre
 
 En tant qu'organisme de formation indépendant je vous offre plusieurs avantages:
 
-  - **Des tarifs 20% en dessous de ceux pratiqués** par la plupart des organismes du marché
+  - **Des tarifs 15% en dessous de ceux pratiqués** par la plupart des organismes du marché
   - **Expérience**: ayez la garantie d'une expérience à la fois du terrain et de la pédagogie
   - **Lien direct**: Simplifiez la gestion et l'organisation avec un interlocuteur unique 
 

@@ -8,7 +8,7 @@ toc: true
 
 {% capture kub-notice %}
 - **Durée:** 3j (21h)
-- **Prix:** 2000€ HT
+- **Prix:** 1850€ HT
 - **Lieux:** à distance ou dans toute la France
 {% endcapture %}
 
