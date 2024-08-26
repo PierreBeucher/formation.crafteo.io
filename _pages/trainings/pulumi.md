@@ -23,6 +23,9 @@ L'objectif de cette formation est d'explorer Pulumi par la pratique afin de comp
 De nombreux travaux pratiques utilisant des infrastructures Cloud dédiées permettent d'explorer et comprendre au mieux les concepts et les appliquer sur des cas d'usage au plus proche de la réalité. 
 {: .notice--success}
 
+
+[S'inscrire à une session](/inscription){: .btn .btn--success}
+
 # Objectifs pédagoqiques
 
 - Comprendre les notions d'Infrastructure as Code

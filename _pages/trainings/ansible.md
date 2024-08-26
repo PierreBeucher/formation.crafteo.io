@@ -21,6 +21,8 @@ Ansible est un outil d'automatisation agentless permettant de gérer la configur
 De nombreux travaux pratiques utilisant des serveurs Cloud permettent d'explorer et comprendre au mieux les concepts et les appliquer sur des cas d'usage au plus proche de la réalité
 {: .notice--success}
 
+[S'inscrire à une session](/inscription){: .btn .btn--success}
+
 # Objectifs pédagogiques
 
 - Comprendre les concepts fondamentaux d'Ansible et son architecture

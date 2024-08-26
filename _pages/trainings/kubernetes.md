@@ -23,6 +23,8 @@ Cette formation aborde l'ensemble des aspects de la gestion des containers et d'
 De nombreux travaux pratiques utilisant des clusters Kubernetes dédiés permettent d'explorer et comprendre au mieux les concepts et les appliquer sur des cas d'usage au plus proche de la réalité
 {: .notice--success}
 
+[S'inscrire à une session](/inscription){: .btn .btn--success}
+
 # Objectifs pédagoqiques
 
 - Comprendre les notions d'orchestration de containers 

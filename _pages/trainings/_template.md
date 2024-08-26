@@ -84,3 +84,7 @@ Techniciens, ingénieurs, architectes, consultants et autres professionnels du m
 - Pattern de gestion et déploiement avancés
 - Kubernetes: As a Service ou self-managed ?
 - Retour d'experience: Kubernetes en Production à grande échelle
+
+---
+
+[S'inscrire à une session](/inscription){: .btn .btn--success}

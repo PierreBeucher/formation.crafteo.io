@@ -25,6 +25,8 @@ La formation s’oriente sur l’exploration pratique de Docker au travers de wo
 De nombreux travaux pratiques utilisant des cas d'usages concrets permettent d'explorer et comprendre au mieux les concepts et les appliquer au plus proche de la réalité
 {: .notice--success}
 
+[S'inscrire à une session](/inscription){: .btn .btn--success}
+
 # Objectifs pédagoqiques
 
 - Comprendre les concepts autour des containers et Docker
@@ -96,3 +98,7 @@ Techniciens, ingénieurs, consultants et autres professionnels du monde l’IT e
 - Introduction à l'orchestration de containers
 - Exploration des concepts de base Kubernetes
 - Déploiement d'une application sécurisée avec HTTPS (TLS)
+
+---
+
+[S'inscrire à une session](/inscription){: .btn .btn--success}

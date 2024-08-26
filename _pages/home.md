@@ -55,7 +55,7 @@ Hello, je suis **Pierre**, formateur et expert **DevOps & Cloud** depuis plus de
 
 Je vous fais profiter de mon expérience au travers de formations orientées sur la pratique et les cas d'usage concrets. 
 
-[Catalogue de formation](./catalogue){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
+[📚 Catalogue](./catalogue){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
 
 # Formations populaires
 
