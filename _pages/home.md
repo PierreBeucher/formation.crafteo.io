@@ -35,6 +35,18 @@ feature_row:
     url: "/trainings/kubernetes"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
+  - image_path: assets/images/devops-600.png
+    alt: "devops-workshop"
+    title: "DevOps: transformer vos équipes et organisations"
+    excerpt: |-
+      Planifier et implémenter votre transformation DevOps: Culture, Principes & Outillages, valeur ajoutée, couts, contraintes et retours d'expériences.  
+      <br>
+      <br>
+      **Durée:** 1 journée <br>
+      **Tarif:** 700€ HT <br>
+    url: "/trainings/devops-workshop"
+    btn_class: "btn--primary"
+    btn_label: "En savoir plus"
 ---
 
 # Formations DevOps & Cloud
@@ -45,9 +57,7 @@ Je vous fais profiter de mon expérience au travers de formations orientées sur
 
 [Catalogue de formation](./catalogue){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
 
----
-
-Formations populaires:
+# Formations populaires
 
 {% include feature_row  %}
 

@@ -38,6 +38,18 @@ feature_row:
     url: "/trainings/ansible"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
+  - image_path: assets/images/devops-600.png
+    alt: "devops-workshop"
+    title: "DevOps: transformer vos équipes et organisations"
+    excerpt: |-
+      Planifier et implémenter votre transformation DevOps: Culture, Principes & Outillages, valeur ajoutée, couts, contraintes et retours d'expériences.  
+      <br>
+      <br>
+      **Durée:** 1 journée <br>
+      **Tarif:** 700€ HT <br>
+    url: "/trainings/devops-workshop"
+    btn_class: "btn--primary"
+    btn_label: "En savoir plus"
 ---
 
 {% include feature_row  %}
