@@ -21,7 +21,7 @@ trainings:
     children:
       - title: "Kubernetes:  Déployer, administrer et orchestrer ses containers"
         url: /trainings/kubernetes
-      - title: "Monitoring, Logging & Alerting sur Kubernetes"
+      - title: "Monitoring, Logging & Alerting sur Kubernetes & OpenShift"
         url: /trainings/kubernetes
   - title: Cloud
     children:

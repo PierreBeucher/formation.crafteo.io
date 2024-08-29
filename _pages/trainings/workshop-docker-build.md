@@ -7,14 +7,14 @@ toc: true
 toc_label: "Sommaire"
 ---
 
-{% capture docker-notice %}
+{% capture training-notice %}
 - **Durée:** Demi-journée (4h) ou journée complète (7h)
 - **Prix:** 300€ HT (4h) / 550€ HT (7h)
 - **Lieux:** à distance ou dans toute la France
 {% endcapture %}
 
 {: .notice--info}
-{{ docker-notice }}
+{{ training-notice }}
 
 Builder des images de container avec Docker et Podman est la principale source de frustration des développeurs et autres utilisateurs: temps de build interminable, pipeline d'intégration continue (CI) à n'en plus finir, une taille d'image causant un temps de téléchargement long et des surcouts de stockage... Cependant le temps est précieux et l'optimisation du build n'est pas simple.
 
