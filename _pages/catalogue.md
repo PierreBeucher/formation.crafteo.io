@@ -35,7 +35,7 @@ feature_row:
     btn_label: "En savoir plus"
   - image_path: assets/images/ansible-600.png
     alt: "ansible"
-    title: "Ansible, automatisation de gestion serveur et infrastructure"
+    title: "Ansible: automatisation de gestion serveur et infrastructure"
     excerpt: |-
       Utiliser Ansible pour automatiser la gestion des serveurs et le déploiement d'applications.
       <br>

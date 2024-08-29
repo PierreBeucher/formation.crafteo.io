@@ -1,5 +1,5 @@
 ---
-title: Ansible, automatisation de gestion serveur et infrastructure
+title: "Ansible: automatisation de gestion serveur et infrastructure"
 permalink: /trainings/ansible.html
 layout: single
 classes: wide

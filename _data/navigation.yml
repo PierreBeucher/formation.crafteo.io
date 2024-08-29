@@ -11,17 +11,29 @@ main:
     url: /contact
 
 trainings:
-  - title: Toutes les formations
+  - title: Docker & containers
     children:
-      - title: Docker
+      - title: "Docker: du Build à la Production"
         url: /trainings/docker
-      - title: Kubernetes
-        url: /trainings/kubernetes 
-      - title: Pulumi
+      - title: "Docker & Podman: Optimisation de build d'image"
+        url: /trainings/workshop-docker-build
+  - title: Kubernetes
+    children:
+      - title: "Kubernetes:  Déployer, administrer et orchestrer ses containers"
+        url: /trainings/kubernetes
+      - title: "Monitoring, Logging & Alerting sur Kubernetes"
+        url: /trainings/kubernetes
+  - title: Cloud
+    children:
+      - title: "Pulumi: Infrastructure as (Real) Code"
         url: /trainings/pulumi
-      - title: Ansible
+      - title: "Ansible: automatisation de gestion serveur et infrastructure"
         url: /trainings/ansible
+  - title: DevOps
+    children:
       - title: "DevOps: Culture, Pratiques et Outils"
         url: /trainings/devops-workshop
+  - title: Besoins spécifiques
+    children:
       - title: "Formation à la demande"
         url: /trainings/custom

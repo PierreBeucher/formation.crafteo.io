@@ -21,6 +21,11 @@ $global-font-family: 'Manjari', "Helvetica Neue", Helvetica, Arial, sans-serif;
 $header-font-family: 'Manjari', "Helvetica Neue", Helvetica, Arial, sans-serif;
 $sans-serif-narrow: 'Manjari', "Helvetica Neue", Helvetica, Arial, sans-serif;
 
+.sidebar {
+    li {
+        padding-bottom: 9px;
+    }
+}
 // $background-color           : #f0fff0 !default;
 // $code-background-color      : $lighter-gray !default;
 // $code-background-color-dark : $light-gray !default;
