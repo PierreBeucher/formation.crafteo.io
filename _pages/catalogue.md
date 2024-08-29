@@ -85,7 +85,17 @@ feature_row:
     url: "/trainings/custom"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
-
+  - image_path: assets/images/docker-600.png
+    alt: "workshop-docker-build"
+    title: "Docker/Podman: optimisation de build d'image"
+    excerpt: |-
+      Réduisez le temps de build de vos images de 30 min à 45 secondes et leur taille de 90 % ! Des simples tweak de Dockerfile à l'utilisation poussée de BuildKit et des _cache mounts_ en passant par le partage de builder à distance. 
+      <br><br>
+      **Durée:** demi-journée ou journée <br>
+      **Tarif:** à partir de 300€ HT <br>
+    url: "/trainings/workshop-docker-build.html"
+    btn_class: "btn--primary"
+    btn_label: "En savoir plus"
 ---
 
 {% include feature_row  %}
