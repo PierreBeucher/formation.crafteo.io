@@ -71,7 +71,7 @@ Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre
 
 En tant qu'organisme de formation indépendant je vous offre plusieurs avantages:
 
-  - **Des tarifs 15% en dessous de ceux pratiqués** par la plupart des organismes du marché
+  - **Des tarifs 15% à 30% en dessous de ceux pratiqués** par la plupart des organismes du marché
   - **Expérience**: ayez la garantie d'une expérience à la fois du terrain et de la pédagogie
   - **Lien direct**: Simplifiez la gestion et l'organisation avec un interlocuteur unique 
 
