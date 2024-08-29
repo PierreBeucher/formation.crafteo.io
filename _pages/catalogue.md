@@ -96,6 +96,17 @@ feature_row:
     url: "/trainings/workshop-docker-build.html"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
+  - image_path: assets/images/kubernetes-600.png
+    alt: "workshop-kubernetes-monitoring"
+    title: "Monitoring, Logging & Alerting sur Kubernetes & OpenShift"
+    excerpt: |-
+      Aborde l'essentielle des connaissances et des bonnes pratiques permettant de mettre en place votre observabilité sur Kubernetes. Un tour d'horizon des aspects les plus importants et des patterns plus avancés.
+      <br><br>
+      **Durée:** 1 journée<br>
+      **Tarif:** 590€ HT <br>
+    url: "/trainings/workshop-kubernetes-monitoring.html"
+    btn_class: "btn--primary"
+    btn_label: "En savoir plus"
 ---
 
 {% include feature_row  %}

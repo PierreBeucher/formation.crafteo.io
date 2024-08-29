@@ -16,7 +16,7 @@ toc_label: "Sommaire"
 {: .notice--info}
 {{ kub-notice }}
 
-Kubernetes permet d'orchestrer des containers à grande échelle pour des applications de toute taille, monolithic comme micros-service. Kubernetes est aujourd'hui un quasi standard du déploiement de containers dans le Cloud comme on-prem.
+Kubernetes permet d'orchestrer des containers à grande échelle et est aujourd'hui un quasi standard du déploiement de containers dans le Cloud comme on-prem.
 
 Cette formation aborde l'ensemble des aspects de la gestion des containers et d'applications sur Kubernetes afin d'accompagner opérateurs comme développeurs dans la mise en place de Kubernetes dans leurs projets et équipes.
 

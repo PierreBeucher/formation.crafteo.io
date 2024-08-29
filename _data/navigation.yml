@@ -19,10 +19,10 @@ trainings:
         url: /trainings/workshop-docker-build
   - title: Kubernetes
     children:
-      - title: "Kubernetes:  Déployer, administrer et orchestrer ses containers"
+      - title: "Kubernetes: Déployer, administrer et orchestrer ses containers"
         url: /trainings/kubernetes
       - title: "Monitoring, Logging & Alerting sur Kubernetes & OpenShift"
-        url: /trainings/kubernetes
+        url: /trainings/workshop-kubernetes-monitoring
   - title: Cloud
     children:
       - title: "Pulumi: Infrastructure as (Real) Code"
