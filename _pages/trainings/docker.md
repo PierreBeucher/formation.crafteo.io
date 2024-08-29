@@ -1,5 +1,5 @@
 ---
-title:  Docker, créer et administrer ses conteneurs virtuels d'applications 
+title: "Docker: du Build à la Production en pratique"
 permalink: /trainings/docker.html
 layout: single
 classes: wide

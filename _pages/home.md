@@ -15,7 +15,7 @@ header:
 feature_row:
   - image_path: assets/images/docker-600.png
     alt: "docker"
-    title: "Docker, créer et administrer ses conteneurs virtuels d'applications"
+    title: "Docker: du Build à la Production en pratique"
     excerpt: |-
       Formation complète sur Docker et la containerisation pour comprendre les concepts du Build à la Production. <br>
       <br>

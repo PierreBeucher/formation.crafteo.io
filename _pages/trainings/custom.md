@@ -19,7 +19,7 @@ Je donne régulièrement des workshops et formations sur demande pour des besoin
 
 Exemple de workshop ou formation sur demande:
 
-- Adapter la formation _ Docker, créer et administrer ses conteneurs virtuels d'applications_ sur 2 jours au lieu de 3
+- Adapter la formation _Docker: du Build à la Production en pratique_ sur 2 jours au lieu de 3
 - Combiner les formations Docker et Kubernetes sur 4 jours
 - Workshop observabilité (Logging, Monitoring, Tracing) sur Kubernetes (1 journée)
 - Workshop optimisation de build d'image Docker + BuildKit (1 journée)
