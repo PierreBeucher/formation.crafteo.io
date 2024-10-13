@@ -4,14 +4,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  # overlay_color: "#4000a3"
   image: /assets/images/purple-banner.png
-  # actions:
-  #   - label: "<i class='fas fa-download'></i> Install now"
-  #     url: "/docs/quick-start-guide/"
-# excerpt: >
-#     <a>Formations DevOps & Cloud - Pédagogie orientée pratique - Cas d'usages au plus proche du terrain</a>
-
 feature_row:
   - image_path: assets/images/docker-600.png
     alt: "docker"
@@ -136,7 +129,7 @@ Crafteo propose des formations **DevOps & Cloud** autour de divers aspects:
 
 Pierre, expert et formateur, vous fait profiter de plus de **10 ans d'expérience** au travers de **formations orientées sur la pratique** et les cas d'usage concrets. 
 
-[S'inscrire à une session](./catalogue){: .btn .btn--info}  
+[S'inscrire à une session](./inscription){: .btn .btn--primary}
 
 Les formations Crafteo sont dispensées **dans toute la France** ou **à distance**. 
 
@@ -158,11 +151,11 @@ En tant qu'organisme de formation indépendant Crafteo vous offre plusieurs avan
   - **Expérience**: ayez la garantie d'une expérience à la fois du terrain et de la pédagogie
   - **Lien direct**: Simplifiez la gestion et l'organisation avec un interlocuteur unique 
 
-[S'inscrire à une formation](./catalogue){: .btn .btn--success}
+[S'inscrire à une session](./inscription){: .btn .btn--primary}
 
 # Financement
 
 Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre OPCO**!
 
-[En savoir plus](./financement){: .btn .btn--info}
+[En savoir plus sur le financement](./financement){: .btn .btn--primary}
 
