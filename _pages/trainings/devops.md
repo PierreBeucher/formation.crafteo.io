@@ -23,7 +23,7 @@ Cette formation au format workshop à la journée apportera les éléments clés
 Cette formation est fortement orientée sur les retours d'expérience, les mises en situation et les échanges avec les participants. L'objectif est de plonger dans le contexte de vos équipes afin d'identifier les leviers permettant au mieux d'actionner votre démarche DevOps. 
 {: .notice--success}
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagoqiques
 

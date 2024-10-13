@@ -20,7 +20,7 @@ Builder des images de container avec Docker et Podman est la principale source d
 
 Avec ce workshop, **réduisez le temps de build de vos images de 30 min à 45 secondes et la taille de vos images de 90 % !** Abordez toutes les optimisations de build d'images: des simples tweak de Dockerfile à l'utilisation poussée de BuildKit et des _cache mounts_ pour votre package manager en passant par des architectures de partage de builders scalables et industrialisables!
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagoqiques
 
@@ -53,4 +53,4 @@ Après-midi (si workshop à la journée):
 - Atelier pratique d'optimisation de build sur vos projets
 - Accompagnement personnalisé selon votre contexte
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 

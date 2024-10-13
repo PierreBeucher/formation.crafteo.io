@@ -11,6 +11,15 @@ toc_label: "Sommaire"
 - **Durée:** 3j (21h)
 - **Prix:** 1850€ HT
 - **Lieux:** à distance ou dans toute la France
+- **Prochaines sessions:**
+  - 2024-11-13 - 2024-11-15
+  - 2024-12-11 - 2024-12-13
+  - 2025-01-08 - 2025-01-10
+  - 2025-02-12 - 2025-02-14
+  - 2025-03-12 - 2025-03-14
+  - 2025-04-09 - 2025-04-11
+  - 2025-05-14 - 2025-05-16
+  - 2025-06-11 - 2025-06-13
 {% endcapture %}
 
 {: .notice--info}
@@ -23,7 +32,7 @@ Cette formation aborde l'ensemble des aspects de la gestion des containers et d'
 De nombreux travaux pratiques utilisant des clusters Kubernetes dédiés permettent d'explorer et comprendre au mieux les concepts et les appliquer sur des cas d'usage au plus proche de la réalité
 {: .notice--success}
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagoqiques
 

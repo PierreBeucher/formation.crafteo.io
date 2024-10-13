@@ -13,6 +13,15 @@ toc_label: "Sommaire"
 - **Durée:** 3j (21h)
 - **Prix:** 1700€ HT
 - **Lieux:** à distance ou dans toute la France
+- **Prochaines sessions:**
+  - 2024-11-06 - 2024-11-08
+  - 2024-12-04 - 2024-12-06
+  - 2025-01-01 - 2025-01-03
+  - 2025-02-05 - 2025-02-07
+  - 2025-03-05 - 2025-03-07
+  - 2025-04-02 - 2025-04-04
+  - 2025-05-07 - 2025-05-09
+  - 2025-06-04 - 2025-06-06
 {% endcapture %}
 
 {: .notice--info}
@@ -25,7 +34,7 @@ La formation s’oriente sur l’exploration pratique de Docker au travers de wo
 De nombreux travaux pratiques utilisant des cas d'usages concrets permettent d'explorer et comprendre au mieux les concepts et les appliquer au plus proche de la réalité
 {: .notice--success}
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagoqiques
 
@@ -101,4 +110,4 @@ Techniciens, ingénieurs, consultants et autres professionnels du monde l’IT e
 
 ---
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 

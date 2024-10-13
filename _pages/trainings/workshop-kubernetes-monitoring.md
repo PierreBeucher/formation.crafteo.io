@@ -23,7 +23,7 @@ Cependant les problématiques d'observabilité (Logging, Monitoring & Alerting) 
 Fortement adaptée à votre contexte, de nombreux cas d'usages et retours d'expériences concrets permettent d'explorer et comprendre au mieux les concepts et les appliquer au plus proche de la réalité
 {: .notice--success}
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagoqiques
 
@@ -88,4 +88,4 @@ Alerting:
 - Ownership et responsabilité
 - Service levels: SLA, SLO & SLI
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 

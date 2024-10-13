@@ -11,6 +11,15 @@ toc_label: "Sommaire"
 - **Durée:** 2j (14h)
 - **Prix:** 1600€ HT
 - **Lieux:** à distance ou dans toute la France
+- **Prochaines sessions:**
+  - 2024-11-21 - 2024-11-22
+  - 2024-12-19 - 2024-12-20
+  - 2025-01-16 - 2025-01-17
+  - 2025-02-20 - 2025-02-21
+  - 2025-03-20 - 2025-03-21
+  - 2025-04-17 - 2025-04-18
+  - 2025-05-15 - 2025-05-16
+  - 2025-06-19 - 2025-06-20
 {% endcapture %}
 
 {: .notice--info}
@@ -24,7 +33,7 @@ De nombreux travaux pratiques utilisant des infrastructures Cloud dédiées perm
 {: .notice--success}
 
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagoqiques
 

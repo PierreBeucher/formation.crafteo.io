@@ -11,6 +11,15 @@ toc_label: "Sommaire"
 - **Durée:** 2j (14h)
 - **Prix:** 1300€ HT
 - **Lieux:** à distance ou dans toute la France
+- **Prochaines sessions:**
+  - 2024-11-18 - 2024-11-19
+  - 2024-12-16 - 2024-12-17
+  - 2025-01-20 - 2025-01-21
+  - 2025-02-17 - 2025-02-18
+  - 2025-03-17 - 2025-03-18
+  - 2025-04-21 - 2025-04-22
+  - 2025-05-19 - 2025-05-20
+  - 2025-06-16 - 2025-06-17
 {% endcapture %}
 
 {: .notice--info}
@@ -21,7 +30,7 @@ Ansible est un outil d'automatisation agentless permettant de gérer la configur
 De nombreux travaux pratiques utilisant des serveurs Cloud permettent d'explorer et comprendre au mieux les concepts et les appliquer sur des cas d'usage au plus proche de la réalité
 {: .notice--success}
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
 
 # Objectifs pédagogiques
 

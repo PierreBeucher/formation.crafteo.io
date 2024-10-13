@@ -87,4 +87,4 @@ Techniciens, ingénieurs, architectes, consultants et autres professionnels du m
 
 ---
 
-[S'inscrire à une session](/inscription){: .btn .btn--success}
+[S'inscrire à une session](/inscription){: .btn .btn--primary} 
