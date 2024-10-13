@@ -31,8 +31,9 @@ exclude:
 
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-search: false
-# search_provider: algolia
+search: true
+lunr:
+  search_within_pages: true
 
 defaults:
   # _pages
