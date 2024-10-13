@@ -1,11 +1,11 @@
 ---
-title: " "
+title: "Crafteo - Formation Cloud & DevOps - Docker, Kubernetes, CI/CD, Infra as Code..."
 layout: splash
 permalink: /
 hidden: true
 header:
   # overlay_color: "#4000a3"
-  image: /assets/images/crafteo-banner.png
+  image: /assets/images/purple-banner.png
   # actions:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
@@ -47,29 +47,112 @@ feature_row:
     url: "/trainings/devops-workshop"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
+testimonies:
+- excerpt: |-
+    Vraiment l'une des meilleures formations que j'ai suivie.<br><br>
+    <i>Liana</i>
+- excerpt: |-
+    Hyper Clair et pédagogique, vivant et illustrée.<br><br> 
+    <i>Soizic</i>
+- excerpt: |-
+    Très bonnes connaissances et adaptation constante aux besoins spécifiques.<br><br> 
+    <i>Martine</i>
+- excerpt: |-
+    Cette formation était très intéressante et très complète ! La disponibilité du formateur est sans égal, celui-ci prend le temps de répondre à chaque question et veille à la bonne compréhension des sujets, ce qui est indispensable et très important sur des sujets aussi techniques et complexes.<br><br> 
+    <i>Melissa</i>
+- excerpt: |-
+    Beaucoup de pratique dans la formation. Un formateur très compétent et avec une expérience terrain importante. L'intervention d'un expert interne en fin de formation pour présenter la mise en place de la contenairisation au sein de l'entreprise nous a permis de raccrocher les wagons et de mieux comprendre le tout. À refaire.<br><br> 
+    <i>Guillaume</i>
+- excerpt: |-
+    La formation répond parfaitement à mes attentes, cela m'a permis de faire le lien avec mon travail en cours sur ces technos et outils. Un grand merci à Pierre qui est très pédagogue et très agréable dans son rôle de formateur.<br><br> 
+    <i>Vincent</i>
+- excerpt: |-
+    Super formateur, compétent, pédagogue et sympathique. Merci Pierre !<br><br>
+    <i>Matthieu</i>
+- excerpt: |-
+    Beaucoup de pratique, c'est très efficace.<br><br> 
+    <i>Khac Hien</i>
+- excerpt: |-
+    Bien pédagogue, clair, adapté, efficace.<br><br> 
+    <i>Sarah</i>
+# - excerpt: |-
+#     Formateur qui a su s'adapter à notre contexte et adopter le bon ton.<br><br> 
+#     <i>Gwenaelle</i>
+# - excerpt: |-
+#     Contenu dense, à la hauteur de la demande, les savoirs sont bien dispensés. Animation vivante, très bons temps d'échanges.<br><br> 
+#     <i>Ayoub</i>
+# - excerpt: |-
+#     Le contenu de la formation est pertinent. Le formateur est très pédagogue, possède une bonne expérience du terrain et est capable d'amener des exemples réels.<br><br> 
+#     <i>Severine</i>
+# - excerpt: |-
+#     Bonne formation avec un formateur disponible et bon timing entre cours et exercices.<br><br> 
+#     <i>Remy</i>
+# - excerpt: |-
+#     Progression dans la présentation des concepts bien maîtrisée.<br><br> 
+#     <i>Philippe</i>
+# - excerpt: |-
+#     Formation très dynamique avec beaucoup de pratique. Formateur abordable et bon pédagogue. 
+#     Intervention d'un expert interne à la fin pour recadrer l'utilisation de Docker chez Conduent, une bonne idée !<br><br>
+#     <i>Nicolas</i>
+# - excerpt: |-
+#     Très bonne pédagogie : explications, environnement mis à dispo, les nombreux TPs.<br><br> 
+#     <i>Fabien</i>
+# - excerpt: |-
+#     Bon équilibre entre théorie et pratique. Contenu et support clair.<br><br> 
+#     <i>Florent</i>
+# - excerpt: |-
+#     Très bon pédagogue, explications claires, bon équilibre entre théorie et pratique.<br><br> 
+#     <i>Maxime</i>
+# - excerpt: |-
+#     Très bien. Un contenu très solide et très technique.<br><br> 
+#     <i>Jean Philippe</i>
+# - excerpt: |-
+#     Pierre est un bon formateur, très calé sur la pratique.<br><br> 
+#     <i>Benjamin</i>
+# - excerpt: |-
+#     Très bon formateur, Pierre est clair dans son discours et a su adapter le rythme et le niveau de la formation à notre groupe.<br><br> 
+#     <i>Sophie</i>
+# - excerpt: |-
+#     Très bonne formation avec Pierre. Un très bon formateur qui a su rendre intéressant et interactif le sujet Docker. Merci.<br><br> 
+#     <i>Maxime</i>
+# - excerpt: |-
+#     Formation Docker très claire. Très compétent. Répond aisément à nos questions. <br><br> 
+#     <i>Françoise</i>
+# - excerpt: |-
+#     La formation était très intéressante et bien menée.<br><br>
+#     <i>Christophe</i>
+
 ---
 
 # Formations DevOps & Cloud
 
-Hello, je suis **Pierre**, formateur et expert **DevOps & Cloud** depuis plus de 10 ans. **Crafteo** est mon entité de formation. 
+Crafteo propose des formations **DevOps & Cloud** autour de divers aspects: 
+- Docker
+- Kubernetes
+- Pratiques & Culture DevOps
+- ...
 
-Je vous fais profiter de mon expérience au travers de formations orientées sur la pratique et les cas d'usage concrets. 
+[📚 Voir le catalogue](./catalogue){: .btn .btn--primary} 
 
-[📚 Catalogue](./catalogue){: .btn .btn--primary} [A propos](./about){: .btn .btn--info} [Me contacter 👋](./contact){: .btn .btn--success}
+Pierre, expert et formateur, vous fait profiter de plus de **10 ans d'expérience** au travers de **formations orientées sur la pratique** et les cas d'usage concrets. 
+
+[S'inscrire à une session](./catalogue){: .btn .btn--info}  
+
+Les formations Crafteo sont dispensées **dans toute la France** ou **à distance**. 
+
+# Témoignages
+
+{% include feature_row id="testimonies"  %}
+
+# Ils font confiance à Crafteo
 
 # Formations populaires
 
 {% include feature_row  %}
 
-# Financement
-
-Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre OPCO**!
-
-[En savoir plus](./financement){: .btn .btn--info}
-
 # Pourquoi se former avec Crafteo?
 
-En tant qu'organisme de formation indépendant je vous offre plusieurs avantages:
+En tant qu'organisme de formation indépendant Crafteo vous offre plusieurs avantages:
 
   - **Des tarifs 15% à 30% en dessous de ceux pratiqués** par la plupart des organismes du marché
   - **Expérience**: ayez la garantie d'une expérience à la fois du terrain et de la pédagogie
@@ -77,17 +160,9 @@ En tant qu'organisme de formation indépendant je vous offre plusieurs avantages
 
 [S'inscrire à une formation](./catalogue){: .btn .btn--success}
 
-# Catalogue de formation
+# Financement
 
-Je propose des formations autour du Cloud & DevOps:
+Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre OPCO**!
 
-  - **DevOps**: Culture, Pratiques et Outils
-  - **Docker**, **Kubernetes** et containerisation
-  - **Cloud**: AWS, Azure & Google
-  - **Infrastructure as Code**: Pulumi, Ansible, Terraform
-
-[Toutes les formations](./catalogue){: .btn .btn--success}
-
----
-
+[En savoir plus](./financement){: .btn .btn--info}
 
