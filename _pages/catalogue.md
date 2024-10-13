@@ -75,7 +75,7 @@ feature_row:
     alt: "pulumi"
     title: "Formation ou Workshop à la demande"
     excerpt: |-
-      Un besoin spécifique ? Une adapation ou un mix de formation existante? N'hésitez pas à me contacter pour en discuter !
+      Un besoin spécifique ? Une adapation ou un mix de formation existante? N'hésitez pas à prendre contact pour en discuter !
       <br>
       <br>
       <br>

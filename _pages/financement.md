@@ -20,6 +20,6 @@ Les formations Crafteo peuvent vous aider à accompagner vos plans de transition
 
 ## Besoin d'aide pour votre demande de financement ?
 
-Je peux vous accompagner afin d'effectuer votre demande de financement auprès des organismes compétents.
+Crafteo vous accompagne afin d'effectuer votre demande de financement auprès des organismes compétents.
 
-[Me contacter](./contact){: .btn .btn--info}
+[Contacter Crafteo](./contact){: .btn .btn--info}

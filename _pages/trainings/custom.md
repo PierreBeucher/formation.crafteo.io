@@ -13,9 +13,9 @@ toc_label: "Sommaire"
 - **Lieux:** à distance ou dans toute la France
 {% endcapture %}
 
-Un besoin spécifique ? Une adapation ou un mix de formation existante? N'hésitez pas à me contacter pour en discuter !
+Un besoin spécifique ? Une adapation ou un mix de formation existante? N'hésitez pas à prendre contact pour en discuter !
 
-Je donne régulièrement des workshops et formations sur demande pour des besoins spécifiques, en adaptant une formation existante ou en créant une formation sur mesure répondant à vos besoins.
+Crafteo anime régulièrement des workshops et formations sur demande pour des besoins spécifiques, en adaptant une formation existante ou en créant une formation sur mesure répondant à vos besoins.
 
 Exemple de workshop ou formation sur demande:
 
@@ -25,4 +25,4 @@ Exemple de workshop ou formation sur demande:
 - Workshop optimisation de build d'image Docker + BuildKit (1 journée)
 - ...
 
-[Me contacter pour en discuter](./contact){: .btn .btn--success}
+[Parlons-en !](./contact){: .btn .btn--success}

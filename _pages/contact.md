@@ -4,7 +4,7 @@ permalink: /contact.html
 layout: single
 ---
 
-Une question ? Une demande ? Je vous réponds en 48h (probablement moins 😉)
+Une question ? Une demande ? Obtenez une réponse rapidement
 
 {% capture contact-data %}
 Pierre Beucher - Crafteo
@@ -18,7 +18,7 @@ Pierre Beucher - Crafteo
   {{ contact-data | markdownify }}
 </div>
 
-Ecrivez-moi directement:
+Ecrivez-nous directement:
 
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/4145c5e4c811d0250c4b6495f947cb66?embedded=1"></div>
 
@@ -34,6 +34,6 @@ formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
 })
 
 formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
-  console.log('Message envoyé! Je vous réponds au plus vite.')
+  console.log('Message envoyé!')
 })
 </script>
