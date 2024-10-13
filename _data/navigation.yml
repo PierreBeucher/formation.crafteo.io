@@ -1,14 +1,14 @@
 main:
-  - title: "A propos"
-    url: /about
-  - title: "Financement"
-    url: /financement
   - title: "📚 Catalogue"
     url: /catalogue
   - title: "S'inscrire à une session"
     url: /inscription
+  - title: "Financement"
+    url: /financement
   - title: "Contact"
     url: /contact
+  - title: "A propos"
+    url: /about
 
 trainings:
   - title: Docker & containers
