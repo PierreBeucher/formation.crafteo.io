@@ -40,6 +40,7 @@ feature_row:
     url: "/trainings/devops-workshop"
     btn_class: "btn--primary"
     btn_label: "En savoir plus"
+
 testimonies:
 - excerpt: |-
     Vraiment l'une des meilleures formations que j'ai suivie.<br><br>
@@ -115,6 +116,11 @@ testimonies:
 #     La formation était très intéressante et bien menée.<br><br>
 #     <i>Christophe</i>
 
+clients:
+  - image_path: assets/images/clients/clients1.png
+  - image_path: assets/images/clients/clients2.png
+  - image_path: assets/images/clients/clients3.png
+
 ---
 
 # Formations DevOps & Cloud
@@ -137,7 +143,9 @@ Les formations Crafteo sont dispensées **dans toute la France** ou **à distanc
 
 {% include feature_row id="testimonies"  %}
 
-# Ils font confiance à Crafteo
+# Ils ont fait confiance à Crafteo
+
+{% include feature_row id="clients"  %}
 
 # Formations populaires
 
