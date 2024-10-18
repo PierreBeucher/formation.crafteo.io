@@ -30,7 +30,7 @@ Pratiques et méthodes:
 
 Pierre vous fait profiter de plus de **10 ans d'expérience** au travers de **formations orientées sur la pratique** et les cas d'usage concrets. 
 
-Ingénieur de formation, Pierre a toujours été passioné par l'informatique et la transmission du savoir. Attaché aux cas concrets et pratiques, les formations animées par Pierre permettent aux stagiaires d'appréhender aux plus proche de leur contexte les aspects abordés.
+Ingénieur de formation, Pierre a toujours été passionné par l'informatique et la transmission du savoir. Attaché aux cas concrets et pratiques, les formations animées par Pierre permettent aux stagiaires d'appréhender aux plus proche de leur contexte les aspects abordés.
 
 En plus d'animer des formations, Pierre accompagne ses clients dans leur démarche Cloud & DevOps comme consultant freelance, mettant en oeuvre chaque jour les concepts et outils des formations qu'il anime. Cela lui permet de proposer du contenu de qualité à jour avec les problématiques du marché.
 
