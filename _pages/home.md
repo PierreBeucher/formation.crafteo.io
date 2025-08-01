@@ -163,7 +163,7 @@ En tant qu'organisme de formation indépendant Crafteo vous offre plusieurs avan
 
 # Financement
 
-Les formations Crafteo sont **certifiées Qualiopi** et **finançables par votre OPCO**!
+Les formations Crafteo sont **finançables par votre OPCO** grace à nos organismes partenaires certifiés Qualiopi !
 
 [En savoir plus sur le financement](./financement){: .btn .btn--primary}
 
